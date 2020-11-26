@@ -17,5 +17,5 @@
 | [Подготовка прототипа модели для металлообрабатывающего предприятия](gold_mining) ||**|
 | [Предсказание цены автомобиля](car_price_prediction) ||**|
 | [Прогнозирование заказов такси](taxi_orders) ||*statsmodels, sklearn, LightGBM*|
-| [Разработка алгоритма для защиты данных](data protection algorithm) ||**|
+| [Разработка алгоритма для защиты данных](data_protection_algorithm) ||**|
 | [Рекомендация тарифов](recommendation_of_tariffs) ||**|
